@@ -1,6 +1,7 @@
 # Manasa
--RVR&JC College of Engineering
--Computer Science Engineering
--Guntur
--Andhra Pradesh
--Indua
+
+- RVR&JC College of Engineering
+- Computer Science Engineering
+- Guntur
+- Andhra Pradesh
+- India
